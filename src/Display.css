@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+    background-color: lightblue;
+}
+
+th {
+    color: brown;
+    background-color: cornflowerblue;
+    height: 50px;
+    font-size: 20px;
+}
+
+tr {
+    height: 35px;
+}
+
+.btnadd {
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: blue;
+    float: left;
+  }
+  

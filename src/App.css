@@ -1,0 +1,74 @@
+.App {
+  text-align: left;
+  margin: 30px;
+}
+
+.nform {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  width: 460px;
+  background-color:azure;
+}
+
+.heading {
+  color: darkgreen;
+  text-align: center;
+}
+
+.lbl {
+  font-size: 20px;
+}
+
+.str {
+  color: red;
+}
+
+.getname {
+  width: 450px;
+  height: 25px;
+}
+
+.rel {
+  float: left;
+  margin-right: 50px;
+}
+
+.getrel {
+  width: 200px;
+  height: 30px;
+}
+
+.getdt {
+  width: 200px;
+  height: 25px;
+}
+
+.rdoadd {
+  margin-left: 200px;
+}
+
+.city {
+  width: 193px;
+  height: 25px;
+}
+
+.btn {
+  width: 150px;
+  height: 30px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 150px;
+  font-size: 20px;
+  background-color: brown;
+}
+
+.err {
+  color: red;
+  font-size: 15px;
+
+}
+div {
+  margin-bottom: 20px;
+}
